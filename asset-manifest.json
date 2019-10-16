@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/salarycaculator/static/css/main.c47a2513.chunk.css",
+    "main.js": "/salarycaculator/static/js/main.c585dd7a.chunk.js",
+    "main.js.map": "/salarycaculator/static/js/main.c585dd7a.chunk.js.map",
+    "runtime-main.js": "/salarycaculator/static/js/runtime-main.77bf2603.js",
+    "runtime-main.js.map": "/salarycaculator/static/js/runtime-main.77bf2603.js.map",
+    "static/js/2.9ceae214.chunk.js": "/salarycaculator/static/js/2.9ceae214.chunk.js",
+    "static/js/2.9ceae214.chunk.js.map": "/salarycaculator/static/js/2.9ceae214.chunk.js.map",
+    "index.html": "/salarycaculator/index.html",
+    "precache-manifest.4d1b4226c6bab221f8aec3b50a8cd77e.js": "/salarycaculator/precache-manifest.4d1b4226c6bab221f8aec3b50a8cd77e.js",
+    "service-worker.js": "/salarycaculator/service-worker.js",
+    "static/css/main.c47a2513.chunk.css.map": "/salarycaculator/static/css/main.c47a2513.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77bf2603.js",
+    "static/js/2.9ceae214.chunk.js",
+    "static/css/main.c47a2513.chunk.css",
+    "static/js/main.c585dd7a.chunk.js"
+  ]
+}
